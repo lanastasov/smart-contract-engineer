@@ -29,6 +29,7 @@
 - [Iterable Mapping](https://www.smartcontract.engineer/challenges/solidity-iterable-mapping) [[solution](./IterableMapping.sol)]
 - [Array Shift](https://www.smartcontract.engineer/challenges/solidity-array-shift) [[solution](./ArrayShift.sol)]
 - [Array Replace List](https://www.smartcontract.engineer/challenges/solidity-array-replace-last) [[solution](./ArrayReplaceLast.sol)]
+- --->
 - [Events](https://www.smartcontract.engineer/challenges/solidity-events) [[solution](./Event.sol)]
 - [Inheritance - Override](https://www.smartcontract.engineer/challenges/solidity-inheritance-override) [[solution](./InheritanceOverride.sol)]
 - [Multiple Inheritance](https://www.smartcontract.engineer/challenges/solidity-multiple-inheritance) [[solution](./MultipleInheritance.sol)]
